@@ -21,7 +21,7 @@ a:hover{
 	color: pink;
 }
 .caixa{
-	border: solid #aaaaa;
+	border: none;
 	border-radius: 10px;
 	background-color: #C6C6F0;
 	padding: 15px;
@@ -34,7 +34,7 @@ img{
 	border-radius: 20px;
 	display: block;
 	margin: 0 auto;
-	width: 400px;
+	width: 335px;
 }
 .center{
 	display: flex;
